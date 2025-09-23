@@ -19,8 +19,8 @@
 - vẽ sơ đồ Trình tự (Sequence Diagram) chi tiết cho chức năng "Rút tiền".
 
 **artifacts**
-- Sơ đồ Use Case: [Chèn link đến file ảnh của bạn]
-- Sơ đồ Trình tự: [Chèn link đến file ảnh của bạn]
+- Sơ đồ Use Case: [ảnh]
+- Sơ đồ Trình tự: [ảnh]
 
 #### **2.3. Lab 4: Lập trình giao diện**
 - xây dựng giao diện đăng nhập (Form Login) bằng HTML, CSS, và JavaScript.
